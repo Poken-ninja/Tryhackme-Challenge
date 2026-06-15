@@ -16,7 +16,7 @@ A simple way to remember it:
 ---
 
 # Layer 7 – Application
-
+<img width="1895" height="1211" alt="image" src="https://github.com/user-attachments/assets/bc7f4beb-abc9-48ac-ad5a-c19fdeb3dfa7" />
 This is the layer closest to the user.
 
 It provides network services to applications like:
@@ -39,7 +39,7 @@ When you open Google in Chrome, the request starts here.
 ---
 
 # Layer 6 – Presentation
-
+<img width="1924" height="593" alt="image" src="https://github.com/user-attachments/assets/c3b99450-6ad6-40cb-8175-e7f7d1944283" />
 Responsible for:
 
 * Data formatting
@@ -63,7 +63,7 @@ Think:
 ---
 
 # Layer 5 – Session
-
+<img width="1932" height="936" alt="image" src="https://github.com/user-attachments/assets/c4ad0b8a-607c-459c-852a-dd5c4db8329b" />
 Responsible for:
 
 * Starting communication
@@ -81,6 +81,9 @@ Think:
 ---
 
 # Layer 4 – Transport
+<img width="1926" height="1217" alt="image" src="https://github.com/user-attachments/assets/f5fb5a8f-1960-44e6-9cbc-b20b66f7651c" />
+<img width="1803" height="722" alt="image" src="https://github.com/user-attachments/assets/2e8a6e64-f965-4708-8f37-b87c73d15728" />
+<img width="1858" height="1192" alt="image" src="https://github.com/user-attachments/assets/d58aa31d-73f9-4538-a5fc-56e8137b6bb4" />
 
 Responsible for:
 
@@ -112,7 +115,7 @@ Think:
 ---
 
 # Layer 3 – Network
-
+<img width="1900" height="774" alt="image" src="https://github.com/user-attachments/assets/319573fe-e4a4-43b8-9bc0-56c5f27a95be" />
 Responsible for:
 
 * Routing
@@ -137,7 +140,7 @@ Think:
 ---
 
 # Layer 2 – Data Link
-
+<img width="1880" height="725" alt="image" src="https://github.com/user-attachments/assets/08e92fc5-ed08-4838-89e5-c529d78fe20f" />
 Responsible for:
 
 * MAC Addresses
@@ -159,7 +162,7 @@ Think:
 ---
 
 # Layer 1 – Physical
-
+<img width="1868" height="1063" alt="image" src="https://github.com/user-attachments/assets/7aba0f10-bdce-4163-bc41-5d04d35db709" />
 Responsible for transmitting actual bits.
 
 ### Examples
